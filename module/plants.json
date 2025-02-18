@@ -1,0 +1,130 @@
+[
+	{
+		"id": 1,
+		"name": "Welwitschia mirabilis",
+		"family": "Welwitschiaceae",
+		"origin": "Namib cho'li",
+		"lifespan": "1000+ yil",
+		"description": "Bu o'simlik atigi ikkita bargga ega va ming yildan ortiq yashaydi."
+	},
+	{
+		"id": 2,
+		"name": "Rafflesia arnoldii",
+		"family": "Rafflesiaceae",
+		"origin": "Indoneziya",
+		"lifespan": "Bir necha hafta",
+		"description": "Dunyodagi eng katta gul bo‘lib, yoqimsiz hid chiqaradi."
+	},
+	{
+		"id": 3,
+		"name": "Titan Arum",
+		"family": "Araceae",
+		"origin": "Sumatra, Indoneziya",
+		"lifespan": "40 yilgacha",
+		"description": "Dunyodagi eng baland gul, chirigan go‘sht hidini chiqaradi."
+	},
+	{
+		"id": 4,
+		"name": "Baobab",
+		"family": "Malvaceae",
+		"origin": "Afrika",
+		"lifespan": "1000+ yil",
+		"description": "Uning tanasi suvni saqlash uchun moslashgan va ulkan ko‘rinishda bo‘ladi."
+	},
+	{
+		"id": 5,
+		"name": "Dracaena cinnabari",
+		"family": "Asparagaceae",
+		"origin": "Socotra oroli",
+		"lifespan": "600 yilgacha",
+		"description": "Qon rangidagi smola chiqaradi, shuning uchun 'Ajdarho qoni daraxti' deb ataladi."
+	},
+	{
+		"id": 6,
+		"name": "Venus Flytrap",
+		"family": "Droseraceae",
+		"origin": "AQSh, Shimoliy Karolina",
+		"lifespan": "20-30 yil",
+		"description": "Bu o‘simlik hasharotlarni ushlaydi va hazm qiladi."
+	},
+	{
+		"id": 7,
+		"name": "Ghost Orchid",
+		"family": "Orchidaceae",
+		"origin": "Florida, Kuba",
+		"lifespan": "Noma'lum",
+		"description": "Ildizsiz o‘sib, havo orqali oziqlanadi."
+	},
+	{
+		"id": 8,
+		"name": "Jade Vine",
+		"family": "Fabaceae",
+		"origin": "Filippin",
+		"lifespan": "50 yilgacha",
+		"description": "Turkuaz rangli noyob gulga ega."
+	},
+	{
+		"id": 9,
+		"name": "Amorphophallus konjac",
+		"family": "Araceae",
+		"origin": "Sharqiy Osiyo",
+		"lifespan": "Bir necha yil",
+		"description": "Kartoshkaga o‘xshash ildizga ega bo‘lib, oziq-ovqatda ishlatiladi."
+	},
+	{
+		"id": 10,
+		"name": "Yareta",
+		"family": "Apiaceae",
+		"origin": "And tog‘lari",
+		"lifespan": "3000 yilgacha",
+		"description": "Toshdek qattiq va past bo‘lib o‘suvchi qadimiy o‘simlik."
+	},
+	{
+		"id": 11,
+		"name": "Lithops",
+		"family": "Aizoaceae",
+		"origin": "Janubiy Afrika",
+		"lifespan": "50 yilgacha",
+		"description": "Toshga o‘xshash bo‘lib, kam suv talab qiladi."
+	},
+	{
+		"id": 12,
+		"name": "Hydnora africana",
+		"family": "Hydnoraceae",
+		"origin": "Janubiy Afrika",
+		"lifespan": "Noma'lum",
+		"description": "Yer ostida o‘sib, faqat guli yuzaga chiqadigan parazit o‘simlik."
+	},
+	{
+		"id": 13,
+		"name": "Corpse Flower",
+		"family": "Araceae",
+		"origin": "Indoneziya",
+		"lifespan": "40 yilgacha",
+		"description": "Gigant guli va chirigan go‘sht hidiga ega."
+	},
+	{
+		"id": 14,
+		"name": "Monkey Puzzle Tree",
+		"family": "Araucariaceae",
+		"origin": "Chili, Argentina",
+		"lifespan": "1000 yilgacha",
+		"description": "Juda qattiq va qirqilgan barglarga ega qadimiy daraxt."
+	},
+	{
+		"id": 15,
+		"name": "Nepenthes rajah",
+		"family": "Nepenthaceae",
+		"origin": "Borneo",
+		"lifespan": "10-20 yil",
+		"description": "Gigant hajmdagi chashka shaklidagi barglari bilan hasharotlarni ushlaydi."
+	},
+	{
+		"id": 16,
+		"name": "Wolffia",
+		"family": "Araceae",
+		"origin": "Butun dunyo",
+		"lifespan": "Bir necha kun",
+		"description": "Dunyodagi eng kichik gulli o‘simlik."
+	}
+]
