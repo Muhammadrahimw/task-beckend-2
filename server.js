@@ -2,12 +2,22 @@ const express = require("express");
 const dotenv = require("dotenv");
 const fs = require("fs");
 const path = require("path");
+import cors from "cors";
 
 dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 8080;
 
 app.use(express.json());
+
+app.use(
+	cors({
+		origin: "http://localhost:3000",
+		methods: "GET,POST,PUT,DELETE",
+		allowedHeaders: "Content-Type,Authorization",
+	})
+);
+
 const dataPath = path.join(__dirname, "module", "plants.json");
 
 let data = JSON.parse(fs.readFileSync(dataPath, "utf-8"));
