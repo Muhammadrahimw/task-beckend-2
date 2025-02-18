@@ -2,7 +2,7 @@ const express = require("express");
 const dotenv = require("dotenv");
 const fs = require("fs");
 const path = require("path");
-import cors from "cors";
+const cors = require("cors");
 
 dotenv.config();
 const app = express();
