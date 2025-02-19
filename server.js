@@ -64,15 +64,15 @@ app.put(`/:userId/flowers/:id`, userRoleCheck, (req, res) => {
 	) {
 		return res.json({message: `data is failed`});
 	}
-	const updatedData = data.map((flower) =>
+	data = data.map((flower) =>
 		flower.id === Number(req.params.id)
 			? {id: req.params.id, ...req.body}
 			: flower
 	);
-	fs.writeFileSync(dataPath, JSON.stringify(updatedData, null, 4));
+	fs.writeFileSync(dataPath, JSON.stringify(data, null, 4));
 	res.json({
 		message: `product updated`,
-		data: {id: req.params.id, ...req.body},
+		data: {id: Number(req.params.id), ...req.body},
 	});
 });
 
